@@ -1,0 +1,5 @@
+Photosynthesis is the biochemical process by which autotrophic organisms, primarily plants, algae and cyanobacteria, convert electromagnetic radiation from the sun into chemical energy stored in glucose molecules. The process occurs predominantly within chloroplasts, organelles that contain the pigment chlorophyll, which absorbs light most efficiently in the blue and red wavelengths.
+
+The overall reaction requires carbon dioxide and water as reactants and yields glucose and molecular oxygen as products. It is conventionally divided into the light-dependent reactions, which take place in the thylakoid membranes and produce ATP and NADPH, and the Calvin cycle, which occurs in the stroma and uses these energy carriers to fix atmospheric carbon dioxide into organic compounds.
+
+Environmental factors such as light intensity, ambient temperature and carbon dioxide concentration significantly influence the rate of photosynthesis, and the point at which no further increase occurs is termed the saturation point.
